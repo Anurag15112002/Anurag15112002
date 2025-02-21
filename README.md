@@ -1,4 +1,4 @@
-![logo](github-header-image.png)
+![logo](github-header-image (1).png)
 <h1 align="center">Hi 👋, I'm Anurag Singh Rajput</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
